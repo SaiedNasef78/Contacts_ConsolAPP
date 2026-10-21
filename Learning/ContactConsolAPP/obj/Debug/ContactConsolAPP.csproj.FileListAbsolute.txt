@@ -1,0 +1,12 @@
+C:\Users\SH\Programing\Learning\ContactConsolAPP\bin\Debug\ContactConsolAPP.exe.config
+C:\Users\SH\Programing\Learning\ContactConsolAPP\bin\Debug\ContactConsolAPP.exe
+C:\Users\SH\Programing\Learning\ContactConsolAPP\bin\Debug\ContactConsolAPP.pdb
+C:\Users\SH\Programing\Learning\ContactConsolAPP\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\SH\Programing\Learning\ContactConsolAPP\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\SH\Programing\Learning\ContactConsolAPP\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\SH\Programing\Learning\ContactConsolAPP\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\SH\Programing\Learning\ContactConsolAPP\obj\Debug\ContactConsolAPP.csproj.AssemblyReference.cache
+C:\Users\SH\Programing\Learning\ContactConsolAPP\obj\Debug\ContactConsolAPP.csproj.CoreCompileInputs.cache
+C:\Users\SH\Programing\Learning\ContactConsolAPP\obj\Debug\ContactC.C68F0B43.Up2Date
+C:\Users\SH\Programing\Learning\ContactConsolAPP\obj\Debug\ContactConsolAPP.exe
+C:\Users\SH\Programing\Learning\ContactConsolAPP\obj\Debug\ContactConsolAPP.pdb
