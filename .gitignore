@@ -1,1 +1,55 @@
 
+Saied Nasef:
+# Visual Studio
+.vs/
+.vscode/
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+
+# Visual Studio generated files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Executable and compiled files
+*.exe
+*.dll
+*.obj
+*.o
+*.lib
+*.pdb
+*.ilk
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+.vs/
+bin/
+obj/
+
+*.user
+*.suo
+*.db
+*.idx
+*.cache
+*.exe
+*.dll
+*.pdb
+*.ilk
