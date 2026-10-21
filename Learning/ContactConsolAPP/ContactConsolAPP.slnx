@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="../ContactsBusinessLayer/ContactsBusinessLayer.csproj" Id="b43733e5-f87b-4a8c-b176-a480db6e885b" />
-  <Project Path="../ContactsConsolApp_PresentationLayer/ContactsConsolApp_PresentationLayer.csproj" Id="29287fac-ce9d-4279-8bd4-b4f8ff438147" />
-  <Project Path="../ContactsDataAccessLayer/ContactsDataAccessLayer.csproj" Id="8b8ed8a2-ec2f-4c59-995a-a2b6a3446e46" />
-  <Project Path="ContactConsolAPP.csproj" Id="0e78282a-8544-4359-8d9d-2a9e797ab325" />
-</Solution>
